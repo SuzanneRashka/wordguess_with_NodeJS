@@ -1,0 +1,23 @@
+{
+  "name": "wordguess_with_NodeJS",
+  "version": "1.0.0",
+  "description": "A word guess game through the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuzanneRashka/wordguess_with_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuzanneRashka/wordguess_with_NodeJS/issues"
+  },
+  "homepage": "https://github.com/SuzanneRashka/wordguess_with_NodeJS#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
